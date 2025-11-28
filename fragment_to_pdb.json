@@ -1,0 +1,178 @@
+{
+  "A0450a": {
+    "pdb_file": "/Users/s2605092/Data/Fragment-ranking/Active_site_frag_pdbs/A0450a/A0450a.pdb",
+    "smiles": "CN(C)C(=O)c1ccc(F)cc1Br"
+  },
+  "A0451a": {
+    "pdb_file": "/Users/s2605092/Data/Fragment-ranking/Active_site_frag_pdbs/A0451a/A0451a.pdb",
+    "smiles": "CNC(=O)c1cn(C)c2ccccc12"
+  },
+  "A0473a": {
+    "pdb_file": "/Users/s2605092/Data/Fragment-ranking/Active_site_frag_pdbs/A0473a/A0473a.pdb",
+    "smiles": "O=S(=O)(NC1CCCC1)C1CCOCC1"
+  },
+  "A0487a": {
+    "pdb_file": "/Users/s2605092/Data/Fragment-ranking/Active_site_frag_pdbs/A0487a/A0487a.pdb",
+    "smiles": "CC(=O)Nc1ccncc1C"
+  },
+  "A0501a": {
+    "pdb_file": "/Users/s2605092/Data/Fragment-ranking/Active_site_frag_pdbs/A0501a/A0501a.pdb",
+    "smiles": "COc1ccccc1-c1nnco1"
+  },
+  "A0501b": {
+    "pdb_file": "/Users/s2605092/Data/Fragment-ranking/Active_site_frag_pdbs/A0501b/A0501b.pdb",
+    "smiles": "COc1ccccc1-c1nnco1"
+  },
+  "A0514a": {
+    "pdb_file": "/Users/s2605092/Data/Fragment-ranking/Active_site_frag_pdbs/A0514a/A0514a.pdb",
+    "smiles": "COc1ccc2sc(N)nc2c1"
+  },
+  "A0515a": {
+    "pdb_file": "/Users/s2605092/Data/Fragment-ranking/Active_site_frag_pdbs/A0515a/A0515a.pdb",
+    "smiles": "COC(=O)c1ccncc1N"
+  },
+  "A0526a": {
+    "pdb_file": "/Users/s2605092/Data/Fragment-ranking/Active_site_frag_pdbs/A0526a/A0526a.pdb",
+    "smiles": "Cc1nccn1-c1cccnc1"
+  },
+  "A0528a": {
+    "pdb_file": "/Users/s2605092/Data/Fragment-ranking/Active_site_frag_pdbs/A0528a/A0528a.pdb",
+    "smiles": "CN1CC[C@@H](Oc2cccc(F)c2)C1=O"
+  },
+  "A0554a": {
+    "pdb_file": "/Users/s2605092/Data/Fragment-ranking/Active_site_frag_pdbs/A0554a/A0554a.pdb",
+    "smiles": "CC(=O)Nc1cccc2cc[nH]c12"
+  },
+  "A0556a": {
+    "pdb_file": "/Users/s2605092/Data/Fragment-ranking/Active_site_frag_pdbs/A0556a/A0556a.pdb",
+    "smiles": "Cn1cc(N)c(C(=O)NC2CCC2)n1"
+  },
+  "A0566a": {
+    "pdb_file": "/Users/s2605092/Data/Fragment-ranking/Active_site_frag_pdbs/A0566a/A0566a.pdb",
+    "smiles": "CNC(=O)c1cccc2cc[nH]c12"
+  },
+  "A0310a": {
+    "pdb_file": "/Users/s2605092/Data/Fragment-ranking/Active_site_frag_pdbs/A0310a/A0310a.pdb",
+    "smiles": "Cc1nn(C)c(C)c1NC(=O)CC#N"
+  },
+  "A0207a": {
+    "pdb_file": "/Users/s2605092/Data/Fragment-ranking/Active_site_frag_pdbs/A0207a/A0207a.pdb",
+    "smiles": "Cc1cc(C(=O)NC[C@@H]2CCOC2)on1"
+  },
+  "A0237a": {
+    "pdb_file": "/Users/s2605092/Data/Fragment-ranking/Active_site_frag_pdbs/A0237a/A0237a.pdb",
+    "smiles": "Cc1ccc(CNC(=O)C2CCC2)cn1"
+  },
+  "A0351a": {
+    "pdb_file": "/Users/s2605092/Data/Fragment-ranking/Active_site_frag_pdbs/A0351a/A0351a.pdb",
+    "smiles": "CCS(=O)(=O)NCc1ccc2c(c1)OCO2"
+  },
+  "A0365a": {
+    "pdb_file": "/Users/s2605092/Data/Fragment-ranking/Active_site_frag_pdbs/A0365a/A0365a.pdb",
+    "smiles": "Cn1ccc(NCc2ccccc2)n1"
+  },
+  "A0375b": {
+    "pdb_file": "/Users/s2605092/Data/Fragment-ranking/Active_site_frag_pdbs/A0375b/A0375b.pdb",
+    "smiles": "COc1ccccc1NC(N)=S"
+  },
+  "A0387a": {
+    "pdb_file": "/Users/s2605092/Data/Fragment-ranking/Active_site_frag_pdbs/A0387a/A0387a.pdb",
+    "smiles": "COCC(=O)Nc1c(C)cc(C)cc1C"
+  },
+  "A0416a": {
+    "pdb_file": "/Users/s2605092/Data/Fragment-ranking/Active_site_frag_pdbs/A0416a/A0416a.pdb",
+    "smiles": "Cc1ccc(NC(=O)[C@H]2CCCO2)nc1"
+  },
+  "A0437a": {
+    "pdb_file": "/Users/s2605092/Data/Fragment-ranking/Active_site_frag_pdbs/A0437a/A0437a.pdb",
+    "smiles": "CCNc1ccc(C)nn1"
+  },
+  "A0443a": {
+    "pdb_file": "/Users/s2605092/Data/Fragment-ranking/Active_site_frag_pdbs/A0443a/A0443a.pdb",
+    "smiles": "Cc1cn2ccccc2n1"
+  },
+  "A0446a": {
+    "pdb_file": "/Users/s2605092/Data/Fragment-ranking/Active_site_frag_pdbs/A0446a/A0446a.pdb",
+    "smiles": "CNC(=O)c1cnc(C)s1"
+  },
+  "A0719a": {
+    "pdb_file": "/Users/s2605092/Data/Fragment-ranking/Active_site_frag_pdbs/A0719a/A0719a.pdb",
+    "smiles": "C[C@H](CS(N)(=O)=O)c1ccccc1"
+  },
+  "A0732a": {
+    "pdb_file": "/Users/s2605092/Data/Fragment-ranking/Active_site_frag_pdbs/A0732a/A0732a.pdb",
+    "smiles": "Cc1cc(C)c(NC(=O)CO)c(C)c1"
+  },
+  "A0739a": {
+    "pdb_file": "/Users/s2605092/Data/Fragment-ranking/Active_site_frag_pdbs/A0739a/A0739a.pdb",
+    "smiles": "Cc1ccc(OCC(=O)N2CCOCC2)c(C)c1"
+  },
+  "A0812a": {
+    "pdb_file": "/Users/s2605092/Data/Fragment-ranking/Active_site_frag_pdbs/A0812a/A0812a.pdb",
+    "smiles": "Cn1nc(C(N)=O)c2ccccc21"
+  },
+  "A0836a": {
+    "pdb_file": "/Users/s2605092/Data/Fragment-ranking/Active_site_frag_pdbs/A0836a/A0836a.pdb",
+    "smiles": "COc1ccc([C@H](N)c2ccccc2)cc1"
+  },
+  "A0836b": {
+    "pdb_file": "/Users/s2605092/Data/Fragment-ranking/Active_site_frag_pdbs/A0836b/A0836b.pdb",
+    "smiles": "COc1ccc([C@H](N)c2ccccc2)cc1"
+  },
+  "A0875a": {
+    "pdb_file": "/Users/s2605092/Data/Fragment-ranking/Active_site_frag_pdbs/A0875a/A0875a.pdb",
+    "smiles": "CCS(=O)(=O)N1CCC(C(=O)O)CC1"
+  },
+  "A0884a": {
+    "pdb_file": "/Users/s2605092/Data/Fragment-ranking/Active_site_frag_pdbs/A0884a/A0884a.pdb",
+    "smiles": "CC(=O)Nc1cccc(NC(N)=O)c1"
+  },
+  "A0911a": {
+    "pdb_file": "/Users/s2605092/Data/Fragment-ranking/Active_site_frag_pdbs/A0911a/A0911a.pdb",
+    "smiles": "CN(C(=O)[C@H]1CCNC1)c1ccccc1"
+  },
+  "A0926a": {
+    "pdb_file": "/Users/s2605092/Data/Fragment-ranking/Active_site_frag_pdbs/A0926a/A0926a.pdb",
+    "smiles": "COCC(=O)N1CCC[C@H](C(N)=O)C1"
+  },
+  "A1019a": {
+    "pdb_file": "/Users/s2605092/Data/Fragment-ranking/Active_site_frag_pdbs/A1019a/A1019a.pdb",
+    "smiles": "COc1cc(Br)ccc1CC(=O)O"
+  },
+  "A1080a": {
+    "pdb_file": "/Users/s2605092/Data/Fragment-ranking/Active_site_frag_pdbs/A1080a/A1080a.pdb",
+    "smiles": "CCC(=O)NO"
+  },
+  "A1140a": {
+    "pdb_file": "/Users/s2605092/Data/Fragment-ranking/Active_site_frag_pdbs/A1140a/A1140a.pdb",
+    "smiles": "O=C(CN1CCCC1)c1ccccc1Cl"
+  },
+  "A1148a": {
+    "pdb_file": "/Users/s2605092/Data/Fragment-ranking/Active_site_frag_pdbs/A1148a/A1148a.pdb",
+    "smiles": "Brc1c[nH]cn1"
+  },
+  "A1169a": {
+    "pdb_file": "/Users/s2605092/Data/Fragment-ranking/Active_site_frag_pdbs/A1169a/A1169a.pdb",
+    "smiles": "N#Cc1cocn1"
+  },
+  "A1180a": {
+    "pdb_file": "/Users/s2605092/Data/Fragment-ranking/Active_site_frag_pdbs/A1180a/A1180a.pdb",
+    "smiles": "Clc1c[nH]cn1"
+  },
+  "A1180b": {
+    "pdb_file": "/Users/s2605092/Data/Fragment-ranking/Active_site_frag_pdbs/A1180b/A1180b.pdb",
+    "smiles": "Clc1c[nH]cn1"
+  },
+  "A1209a": {
+    "pdb_file": "/Users/s2605092/Data/Fragment-ranking/Active_site_frag_pdbs/A1209a/A1209a.pdb",
+    "smiles": "Brc1ncc[nH]1"
+  },
+  "A1255a": {
+    "pdb_file": "/Users/s2605092/Data/Fragment-ranking/Active_site_frag_pdbs/A1255a/A1255a.pdb",
+    "smiles": "COCCn1ccc(Br)cc1=O"
+  },
+  "A1292a": {
+    "pdb_file": "/Users/s2605092/Data/Fragment-ranking/Active_site_frag_pdbs/A1292a/A1292a.pdb",
+    "smiles": "O=C(NC1CC1)c1ccccc1O"
+  }
+}
